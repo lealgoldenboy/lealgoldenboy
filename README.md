@@ -44,23 +44,14 @@
 
 ## `01` · Sobre mim
 
-```java
-public class PedroIvo {
+Olá! Sou **Pedro Ivo Leal Gomes Pereira**, Analista de Desenvolvimento.
 
-    private final String name = "Pedro Ivo Leal Gomes Pereira";
-    private final String role = "Analista de Desenvolvimento";
+Minha atuação e meus interesses estão voltados ao desenvolvimento de software, com foco em Java e Spring Boot, além de tecnologias de infraestrutura e cloud.
 
-    private final String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "PostgreSQL"
-    };
+Também tenho interesse em automação e inteligência artificial aplicada, explorando maneiras de desenvolver soluções que tornem processos mais eficientes.
 
-    private final String[] interests = {
-        "Automação",
-        "Inteligência Artificial Aplicada"
-    };
-}
+<div align="center">
+  <img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot-8A2BE2?style=flat-square&labelColor=0D0D0D" alt="Backend"/>
+  <img src="https://img.shields.io/badge/CLOUD-AWS%20%7C%20Docker%20%7C%20Kubernetes-8A2BE2?style=flat-square&labelColor=0D0D0D" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/INTERESTS-Automation%20%7C%20Applied%20AI-8A2BE2?style=flat-square&labelColor=0D0D0D" alt="Interesses"/>
+</div>
