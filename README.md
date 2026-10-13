@@ -10,7 +10,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:160B28,100:7B2FFF&height=190&section=header&text=Pedro%20Ivo&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Analista%20de%20Desenvolvimento&descAlignY=60&descSize=17&animation=fadeIn"
-    alt="Pedro Ivo | Analista de Desenvolvimento"
+    alt="Pedro Ivo Leal | Analista de Desenvolvimento"
   />
 
   <!-- TYPING ANIMATION -->
